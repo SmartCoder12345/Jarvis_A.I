@@ -20,8 +20,10 @@ It's important to understand that Jarvis operates based on its training and does
 
 From where to start Jarvis A.I.?
 --------------------------------
-If you will have a look at the file explorer of Pycharm,  you will find a file named main.py. This file is the entry point of the Jarvis AI. Double click to open this file. You can run Your Jarvis A.I. by pressing the Run button (present upside the file explorer to the right corner).
-But before you run the Jarvis A.I. you are requested to read this full docs first.
+First, Clone my repository to your PC. Only you need to do three things :- 
+1. You need to intall python and pip.
+2. pip install openai.
+3. Create your own API Key from Open AI using this link https://platform.openai.com/account/api-keys and enter the secret key in the imp_files/config.py (jarvis_api = "abc123").
 
 How Jarvis A.I. works?
 ----------------------
